@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\ProgrammingStuff\CppCourse\Section_2_Control_Statements\Projects\GuessTheNumber\GuessTheNumber\main.cpp(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\ProgrammingStuff\CppCourse\Section_2_Control_Statements\Projects\GuessTheNumber\GuessTheNumber\main.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessTheNumber.vcxproj -> D:\ProgrammingStuff\CppCourse\Section_2_Control_Statements\Projects\GuessTheNumber\x64\Debug\GuessTheNumber.exe

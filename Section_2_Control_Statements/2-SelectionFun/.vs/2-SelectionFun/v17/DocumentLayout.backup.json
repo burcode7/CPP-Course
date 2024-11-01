@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgrammingStuff\\CppCourse\\Section_2_Control_Statements\\2-SelectionFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14712F8D-8A28-4768-B54D-71BF99FAFCCD}|2-SelectionFun\\2-SelectionFun.vcxproj|D:\\ProgrammingStuff\\CppCourse\\Section_2_Control_Statements\\2-SelectionFun\\2-SelectionFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14712F8D-8A28-4768-B54D-71BF99FAFCCD}|2-SelectionFun\\2-SelectionFun.vcxproj|solutionrelative:2-SelectionFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\ProgrammingStuff\\CppCourse\\Section_2_Control_Statements\\2-SelectionFun\\2-SelectionFun\\main.cpp",
+              "RelativeDocumentMoniker": "2-SelectionFun\\main.cpp",
+              "ToolTip": "D:\\ProgrammingStuff\\CppCourse\\Section_2_Control_Statements\\2-SelectionFun\\2-SelectionFun\\main.cpp",
+              "RelativeToolTip": "2-SelectionFun\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T21:52:23.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

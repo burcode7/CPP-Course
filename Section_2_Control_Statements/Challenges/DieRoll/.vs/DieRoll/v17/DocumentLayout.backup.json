@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgrammingStuff\\CppCourse\\Section_2_Control_Statements\\Challenges\\DieRoll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4845CBE-E1B0-48C2-8906-7E4D58460917}|DieRoll\\DieRoll.vcxproj|D:\\ProgrammingStuff\\CppCourse\\Section_2_Control_Statements\\Challenges\\DieRoll\\DieRoll\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4845CBE-E1B0-48C2-8906-7E4D58460917}|DieRoll\\DieRoll.vcxproj|solutionrelative:DieRoll\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\ProgrammingStuff\\CppCourse\\Section_2_Control_Statements\\Challenges\\DieRoll\\DieRoll\\main.cpp",
+              "RelativeDocumentMoniker": "DieRoll\\main.cpp",
+              "ToolTip": "D:\\ProgrammingStuff\\CppCourse\\Section_2_Control_Statements\\Challenges\\DieRoll\\DieRoll\\main.cpp",
+              "RelativeToolTip": "DieRoll\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T19:24:16.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
